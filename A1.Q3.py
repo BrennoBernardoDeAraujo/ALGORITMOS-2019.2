@@ -1,0 +1,5 @@
+D = float(input("valor original da dívida : "))
+A = float(input("quantidade de dias em atraso: "))
+M = float(input("valor da multa por dia de atraso : "))
+T = float (D + (A*M))
+print ("valor a ser pago por uma dívida em atraso: ",T)
