@@ -9,6 +9,6 @@ print ("Quantidade de litros abastecidos: ",QL)
 
 # Siginificado das siglas:
 
-# VL = float(input("Valor do litro de combustível: "))
-# VA = float(input("Valor que deseja abastecer: "))
+# VL = Valor do litro de combustível
+# VA = Valor que deseja abastecer
 # QL = Quantidade de litros abastecidos
