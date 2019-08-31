@@ -50,7 +50,7 @@ elif SB <= 2500:
     "\n(-) Sindicato :",DS,
     "\nFGTS (11%):",fgts,
     "\nTotal de descontos:",ir + DS,
-    "\nSalário Líquido:",sl)   
+    "\nSalário Líquido:",Sliq)   
 else:
         ir = (SB/100)*20
         SalarioLiquido = SB - DS - ir
